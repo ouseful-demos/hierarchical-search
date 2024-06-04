@@ -1,0 +1,4 @@
+lxml
+jupyter-book
+
+https://github.com/innovationOUtside/ou-xml-validator/archive/refs/heads/main.zip
