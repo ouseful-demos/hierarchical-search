@@ -1,0 +1,4 @@
+format: jb-book
+root: dummy
+chapters:
+- file: dummy_dir/dummy2
